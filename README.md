@@ -1,6 +1,6 @@
 # Sitamarhi-Institute-Of-Technology-unofficial
 It is a website that showcases the college and its surroundings. It provides information about the courses, faculty, facilities, events, and alumni of the institute. It also features a guide to the nearby places of interest, such as historical sites, cultural attractions, and natural wonders.
-### guide : To view this website just click on github-pages in Enviorment section <IMG SRC="https://github.com/X-itachi-X/Sitamarhi-Institute-Of-Technology-unofficial/assets/104882734/6bddb44d-508e-4e4d-a74a-64c668acbab7">
+### guide : To view this website just click on github-pages in Enviorment section OR <a href="https://x-itachi-x.github.io/Sitamarhi-Institute-Of-Technology-unofficial/">Click Here</a>
 
 
 ## Home page 
